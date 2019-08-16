@@ -1,5 +1,5 @@
 .gitignore
 
-/certs
-/config
-/node_modules
+certs/
+config/
+node_modules/
